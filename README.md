@@ -2,7 +2,7 @@
 
 <h2> how to run </h2>
 
-run the command
+Execute the commands on terminal
 
 <h2> 1 "npm install"</h2>
 
