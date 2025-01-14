@@ -4,6 +4,6 @@
 
 run the command
 
-1 <h2>npm install</h2>
+<h2> 1 "npm install"</h2>
 
-2 <h2>npm run dev</h2>
+<h2> 2 "npm run dev"</h2>
